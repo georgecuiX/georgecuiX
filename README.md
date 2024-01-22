@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hi, I'm George 🙂👋
+
+- 🔭 I’m currently working on
+  - Personal Projects
+  - 
+
+- 🌱 I’m currently learning
+  - Various Frameworks
+  - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
+  - Operating Systems
+    
+- 📫 How to reach me:
+  - Email: georgecuix@gmail.com
+  - Linkedin: https://www.linkedin.com/in/george-cui/
+  - Discord Username: silenthze
+ 
+- ⚡ Fun facts: I'm a huge fan of playing and watching basketball 🏀 and watching boxing/MMA 🥊
+
+### Languages:
+- Python
+- Java
+- Javascript
+- C
+- C++
+- Bash
+- Lisp
+
 
 <!--
 **georgecuiX/georgecuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
