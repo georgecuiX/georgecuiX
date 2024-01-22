@@ -1,5 +1,5 @@
 # Hi, I'm George 🙂👋
-**I am a second year student at Toronto Metropolitan University (formerly Ryerson University) currently residing in Toronto, Ontario 🏠. I constantly strive for improvement and I'm passionate in developing meaningful applications 🧑‍🏭. I am particularly interested in machine learning, virtual reality, and game development 🎮!**
+**I'm a second year student at Toronto Metropolitan University (formerly Ryerson University) currently residing in Toronto, Ontario 🏠. I constantly strive for improvement and I'm passionate in developing meaningful applications 🧑‍🏭. I am particularly interested in machine learning, virtual reality, and game development 🎮!**
 
 - 🔭 I’m currently working on
   - Personal Projects 💻
