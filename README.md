@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on
   - Personal Projects 💻
-  - Physical Training 🏋️
+  - Interactive Video Game 🎮
+  - Physical Health 🏋️
 
 - 🌱 I’m currently learning
   - Various Frameworks (React, JQuery)
