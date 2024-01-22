@@ -1,4 +1,5 @@
 # Hi, I'm George 🙂👋
+**I am a second year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario. **
 
 - 🔭 I’m currently working on
   - Personal Projects 💻
