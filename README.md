@@ -1,11 +1,11 @@
-### Hi, I'm George 🙂👋
+# Hi, I'm George 🙂👋
 
 - 🔭 I’m currently working on
-  - Personal Projects
-  - 
+  - Personal Projects 💻
+  - Physical Training 🏋️
 
 - 🌱 I’m currently learning
-  - Various Frameworks
+  - Various Frameworks (React, JQuery)
   - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
   - Operating Systems
     
