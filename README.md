@@ -3,20 +3,15 @@
 
 - 🔭 I’m currently working on
   - Personal Projects 💻
-  - Interactive Video Game 🎮
   - Physical Health 🏋️
 
 - 🌱 I’m currently learning
-  - Various Frameworks (React, JQuery)
   - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
   - Operating Systems
     
 - 📫 How to reach me:
   - Email: georgecuix@gmail.com
   - Linkedin: https://www.linkedin.com/in/george-cui/
-  - Discord Username: silenthze
-
-- 📖 Check out my [resume](file:///C:/Users/georg/Downloads/George%20Cui%20-%20Co-op%20Resume.pdf)!
   
 - ⚡ Fun facts: I'm a huge fan of playing and watching basketball 🏀 and watching boxing/MMA 🥊
 
@@ -29,6 +24,10 @@
 - Bash
 - Lisp
 
+### Technical:
+- HTML5
+- CSS
+- Node.js
 
 <!--
 **georgecuiX/georgecuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
