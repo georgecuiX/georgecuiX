@@ -27,8 +27,9 @@
 ### Technical:
 - HTML5
 - CSS
-- Node.js
-
+- Flask
+- SQLite
+  
 <!--
 **georgecuiX/georgecuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
