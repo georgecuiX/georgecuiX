@@ -12,6 +12,7 @@
 - 📫 How to reach me:
   - Email: georgecuix@gmail.com
   - Linkedin: https://www.linkedin.com/in/george-cui/
+  - Instagram: https://www.instagram.com/geo_uix
   
 - ⚡ Fun facts: I'm a huge fan of playing and watching basketball 🏀 and watching boxing/MMA 🥊
 
