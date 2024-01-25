@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on
   - Recipe Generator Application 💻
   - Music Application GUI 🎵
+  - Personal Portfolio 📖
 
 - 🌱 I’m currently learning
   - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
