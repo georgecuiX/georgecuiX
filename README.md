@@ -7,6 +7,7 @@
   - Personal Portfolio 📖
 
 - 🌱 I’m currently learning
+  - Bootstrap, React.js, Node.js
   - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
   - Operating Systems
     
