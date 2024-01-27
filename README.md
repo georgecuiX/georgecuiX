@@ -23,15 +23,15 @@
 - Java
 - Javascript
 - C
-- C++
 - Bash
 - Lisp
 
 ### Technical:
-- HTML5
+- HTML
 - CSS
 - Flask
-- SQLite
+- SQL
+- Tailwind CSS
   
 <!--
 **georgecuiX/georgecuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
