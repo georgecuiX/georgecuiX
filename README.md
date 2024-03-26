@@ -24,14 +24,18 @@
 - Javascript
 - C
 - Bash
+- Rust
+- Elixir
 - Lisp
 
 ### Technical:
-- HTML
+- HTML5
 - CSS
+- Tailwind
 - Flask
-- SQL
-- Tailwind CSS
+- SQLite
+- React
+- Vue
   
 <!--
 **georgecuiX/georgecuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
