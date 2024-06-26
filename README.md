@@ -12,7 +12,7 @@
   - Operating Systems
 
 - 📫 Contact me at [georgecuix@gmail.com](url)
-- 
+
 - ⚡ Fun facts: I'm a huge fan of basketball 🏀, boxing/MMA 🥊, and anime 📺!
 
 # 💻 Tech Stack:
