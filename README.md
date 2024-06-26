@@ -2,15 +2,17 @@
 **I'm currently a second year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario 🏠. I constantly strive for improvement and I'm passionate in developing meaningful applications 🧑‍🏭. I am particularly interested in machine learning, virtual reality, cybersecurity, and game development 🎮!**
 
 - 🔭 I’m currently working on
-  - Recipe Generator Application 💻
-  - Music Application GUI 🎵
-  - Personal Portfolio 📖
+  - Personal Projects 
+  - Portfolio 📖
+  - Looking for Fall 2024 internship opportunities!
 
 - 🌱 I’m currently learning
   - Bootstrap, React.js, Node.js
   - Comparative Programming Languages (Smalltalk, Elixer, Haskell, Rust)
   - Operating Systems
 
+- 📫 Contact me at [georgecuix@gmail.com](url)
+- 
 - ⚡ Fun facts: I'm a huge fan of basketball 🏀, boxing/MMA 🥊, and anime 📺!
 
 # 💻 Tech Stack:
