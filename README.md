@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning
   - Backend Development
   - Various Frameworks
-  - Machine Learning
+  - Computer Networks
 
 - 📫 Contact me at [georgecuix@gmail.com](url)
 
