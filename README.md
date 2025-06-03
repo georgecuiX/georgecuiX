@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on
   - Personal Projects 
-  - Portfolio 📖
-  - Looking for Summer 2025 internship opportunities!
 
 - 🌱 I’m currently learning
   - Backend Development
