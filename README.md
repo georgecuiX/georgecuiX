@@ -1,5 +1,5 @@
 # Hi, I'm George 🙂👋
-**I'm currently a third year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario 🏠. I constantly strive for improvement and I'm passionate in developing meaningful applications 🧑‍🏭. I am particularly interested in machine learning, virtual reality, cybersecurity, and game development 🎮!**
+**I'm currently a third year student at Toronto Metropolitan University (formerly Ryerson University) residing in Markham, Ontario 🏠. I constantly strive for improvement and I'm passionate in developing meaningful applications 🧑‍🏭. I am particularly interested in full stack development, virtual reality, and cybersecurity!**
 
 - 🔭 I’m currently working on
   - Personal Projects 
